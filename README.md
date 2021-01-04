@@ -6,6 +6,12 @@ You can use a read me file to help provide instructions on how to use your game.
 
 Make sure you store all the files related to your game in your repository so that they can be accessed and assessed. 
 
+### THIS CAN BE DONE BY SELECTING 'ADD FILE' AND ADDING YOUR .py  OR .IPynb FILES (Jupyter Notebooks) ###
+
+Please see the Facebook Group if you struggle with this.
+
+
+
 Remember, each game will be assessed on three key criteria which are important to consider in any coding project:
 
 1) Originality 
